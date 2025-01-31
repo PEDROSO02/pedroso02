@@ -2,8 +2,7 @@
 
 **`Estudante de Programação`**
 
-Me chamo Guilherme Pedroso, tenho 18 anos e estou próximo de concluir o ensino médio e ingressar
-na faculdade de Análise e Desenvolvimento de Sistemas! Mas enquanto esse dia não chega, estudo pela internet.
+Me chamo Guilherme Pedroso, tenho 18 anos e estou cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul. Este é apenas um dos primeiros passos para uma grande jornada no mundo DEV!
 
 <a href="https://instagram.com/eupedroso_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:guispedroso14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
